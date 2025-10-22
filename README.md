@@ -1,6 +1,12 @@
 ## About:
 
 
+Mario's Challenge Gala is a Mario Roguelike Game, where you score the highest possible instead of completing the game.
+
+
+## Purpose of putting the game here:
+
+
 This contains game files that are constantly updated.
 
 
@@ -323,4 +329,5 @@ Trollfortress
 
 
 **Mario is a © from Nintendo.**
+
 
